@@ -38,7 +38,7 @@ Unsurprisingly, we don't text so much in the middle of the night, a bit more dur
 Who usually gets up earlier in the morning and sends the first text of the day?
 ![FirstTextOfTheDay](figures/FirstTextOfTheDay.png)
 
-Looks like my friend tends to usually get up a bit earlier than me. 
+Looks like I tend to usually get up a bit earlier than my friend. 
 Now how did our monthly chat behavior develop over the entire time we are connected on WhatsApp?
 ![TextsPerMonth](figures/TextsPerMonth.png)
 
